@@ -1,5 +1,5 @@
 # european-soccer-ml
-Predicting the Outcomes of European Soccer Matches with Machine Learning
+Predicting the Outcomes of European Soccer Matches with Machine Learning and Data Analysis using SQL
 
 Check out the Medium article for this project: 
 
